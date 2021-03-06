@@ -2,7 +2,7 @@
 It is a simple program in C++. It is a classic and fun game to play and easy to program.
 
 <h1 align="center">
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fp%2F5e984379bdcb%3Fsource%3Duser_profile---------5------------------&psig=AOvVaw3rpcWbd6rVFIVERHINZ-o3&ust=1615130753183000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiJ1In9m-8CFQAAAAAdAAAAABAK"
+ <img src="https://miro.medium.com/max/318/1*TzbmJ5RWXeyjnT1ZuG664A.png"
   <br>
   Hangman Game - <b>C++</b>
 </h1>
